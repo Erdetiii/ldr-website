@@ -235,7 +235,7 @@ If the build fails on Vercel:
 - Make sure all dependencies are in `package.json`
 - Ensure there are no TypeScript errors locally
 
-### Images Not Loading
+### Images Not Loadingg
 
 If images don't load:
 - Make sure you're using the `ImageWithFallback` component
