@@ -61,7 +61,7 @@ export default function App() {
       alt: "Couple holding hands"
     },
     {
-      url: "../photos/IMG_2968.jpg",
+      url: "../photos/IMG_2968.JPG",
       alt: "Sunset romance"
     },
     {
@@ -73,11 +73,11 @@ export default function App() {
       alt: "Love letters"
     },
     {
-      url: "../photos/IMG_3042.jpg",
+      url: "../photos/IMG_3042.JPG",
       alt: "Stars in the distance"
     },
     {
-      url: "../photos/IMG_2999.jpg",
+      url: "../photos/IMG_2999.JPG",
       alt: "Couple embrace"
     }
   ];
