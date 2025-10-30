@@ -57,23 +57,23 @@ export default function App() {
 
   const photos = [
     {
-      url: "../public/IMG_2664.jpeg",
+      url: "/IMG_2664.jpeg",
       alt: "Couple holding hands"
     },
     {
-      url: "../public/IMG_2968.JPG",
+      url: "/IMG_2968.JPG",
       alt: "Sunset romance"
     },
     {
-      url: "../public/IMG_2716.jpeg",
+      url: "/IMG_2716.jpeg",
       alt: "Romantic couple"
     },
     {
-      url: "../public/IMG_2998.jpeg",
+      url: "/IMG_2998.jpeg",
       alt: "Love letters"
     },
     {
-      url: "../public/IMG_3042.JPG",
+      url: "/IMG_3042.JPG",
       alt: "Stars in the distance"
     },
     {
