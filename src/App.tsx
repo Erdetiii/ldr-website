@@ -57,27 +57,27 @@ export default function App() {
 
   const photos = [
     {
-      url: "../photos/IMG_2664.jpeg",
+      url: "../public/IMG_2664.jpeg",
       alt: "Couple holding hands"
     },
     {
-      url: "../photos/IMG_2968.JPG",
+      url: "../public/IMG_2968.JPG",
       alt: "Sunset romance"
     },
     {
-      url: "../photos/IMG_2716.jpeg",
+      url: "../public/IMG_2716.jpeg",
       alt: "Romantic couple"
     },
     {
-      url: "../photos/IMG_2998.jpeg",
+      url: "../public/IMG_2998.jpeg",
       alt: "Love letters"
     },
     {
-      url: "../photos/IMG_3042.JPG",
+      url: "../public/IMG_3042.JPG",
       alt: "Stars in the distance"
     },
     {
-      url: "../photos/IMG_2999.JPG",
+      url: "../public/IMG_2999.JPG",
       alt: "Couple embrace"
     }
   ];
