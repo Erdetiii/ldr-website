@@ -77,7 +77,7 @@ export default function App() {
       alt: "Stars in the distance"
     },
     {
-      url: "../public/IMG_2999.JPG",
+      url: "/IMG_2999.JPG",
       alt: "Couple embrace"
     }
   ];
