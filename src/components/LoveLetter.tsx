@@ -16,7 +16,7 @@ export function LoveLetter() {
         {/* Letter content */}
         <div className="p-10 space-y-6">
           <div className="text-right text-gray-600 mb-8">
-            <p>{new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
+            <p>October 29, 2025</p>
           </div>
           
           <div className="space-y-4 text-gray-700 leading-relaxed">
